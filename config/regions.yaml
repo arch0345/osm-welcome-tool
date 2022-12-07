@@ -168,11 +168,11 @@ regions:
       flag: 🇪🇸
       osmcha.id: e3402391-1831-4e71-a4f8-17f6a335a66b
   north-america:
-    ca-bc:
+    british-columbia:
       name: British Columbia
       flag: 🇨🇦
       osmcha.id: 9e58ce7f-ad64-4d5f-9242-895c9ed428e0
-    ca-on:
+    ontario:
       name: Ontario
       flag: 🇨🇦
       osmcha.id: e996293a-99b8-4fef-8321-f997c2ba7740
@@ -185,14 +185,14 @@ regions:
       flag: 🇺🇸
       osmcha.id: 68d8c9b6-ab1a-4837-89d4-1a558e398232
     massachusetts:
-      name: Commonwealth of Massachusetts
+      name: Massachusetts
       flag: 🇺🇸
       osmcha.id: 4cd5aef1-8bc3-4013-967b-dae167a9ee2a
     michigan:
       name: Michigan
       flag: 🇺🇸
       osmcha.id: a5d45476-3601-441e-b4e7-77b7d958e3a8
-    newyork:
+    new-york:
       name: New York State
       flag: 🇺🇸
       osmcha.id: be301bd2-e35c-45fe-bcff-17892fce6e2e
