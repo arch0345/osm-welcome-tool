@@ -1,0 +1,8 @@
+{
+    "title": "geometry.json",
+    "description": "A GeoJSON Geometry",
+    "allOf": [
+      { "$ref": "http://json.schemastore.org/geojson.json#/definitions/geometry" }
+    ],
+    "type": "object"
+  }
